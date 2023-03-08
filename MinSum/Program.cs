@@ -84,4 +84,3 @@ FillMatrix(matrix);
 PrintMatrix(matrix);
 Console.Write("Суммы строк: ");
 FindMinSum(matrix);
-//PrintMatrix(matrix);
